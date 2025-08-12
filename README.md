@@ -1,4 +1,4 @@
-# LAN-Based Real-Time Ping Pong Game
+# Ping-Pong Over TCP
 
 ## Description
 This project implements a **two-player ping pong game** that runs over a **Local Area Network (LAN)** using **TCP sockets** in C.  
